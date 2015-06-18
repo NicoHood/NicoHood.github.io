@@ -23,7 +23,8 @@ Please do not use the Github issues to ask questions. Only open bugs there or if
 
 If you want to email me, **only PGP mails are accepted**. Any other mail will be read, but not answered. Please put **"SECURE"** as subject, since the subject is not encrypted. You can write in **English or German** to me.
 
-How you can setup your E-Mail client with PGP you can read up anywhere on the internet. Here is an example for [Thunderbird](https://support.mozilla.org/en-US/kb/digitally-signing-and-encrypting-messages).
+How you can setup your E-Mail client with PGP you can read up anywhere on the internet. Here is an example for [Thunderbird](https://support.mozilla.org/en-US/kb/digitally-signing-and-encrypting-messages)
+and [Gmail](http://googleonlinesecurity.blogspot.de/2014/06/making-end-to-end-encryption-easier-to.html).
 
 This is my public key for **blog[at]nicohood[dot]de**
 ```
