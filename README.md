@@ -21,7 +21,9 @@ Those are the options how you can communicate with me:
 
 Please do not use the Github issues to ask questions. Only open bugs there or if you are unsure what your error gives. I will not answer general questions there. Try to read the documentation/wiki first.
 
-If you want to email me, **only PGP mails are accepted**. Any other mail will be read, but not answered. How you can setup your E-Mail client with PGP you can read up anywhere on the internet. Here is an example for [Thunderbird](https://support.mozilla.org/en-US/kb/digitally-signing-and-encrypting-messages).
+If you want to email me, **only PGP mails are accepted**. Any other mail will be read, but not answered. Please put **"SECURE"** as subject, since the subject is not encrypted. You can write in **English or German** to me.
+
+How you can setup your E-Mail client with PGP you can read up anywhere on the internet. Here is an example for [Thunderbird](https://support.mozilla.org/en-US/kb/digitally-signing-and-encrypting-messages).
 
 This is my public key for **blog[at]nicohood[dot]de**
 ```
