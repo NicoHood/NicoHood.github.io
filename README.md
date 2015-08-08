@@ -5,6 +5,11 @@ This website is hosted by Github right now. You can reach the latest website at 
 You will be automatically redirected to the latest website/blog if it will change later on.
 So if you link to me, please always add this main address if the actual link/webspace goes offline.
 
+###Blog Posts
+All important blog posts are now online in the [github wiki](https://github.com/NicoHood/NicoHood.github.io/wiki).
+You will find there new tutorials sooner or later. Everything that is not related directly to an existing project
+will be published there now. Please update your links!
+
 ###Under Construction
 This page is temporary. All content from the blog will move here if I get the time to do it.
 Currently the blog is available here:
