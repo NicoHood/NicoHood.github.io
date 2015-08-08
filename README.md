@@ -6,7 +6,7 @@ You will be automatically redirected to the latest website/blog if it will chang
 So if you link to me, please always add this main address if the actual link/webspace goes offline.
 
 ###Blog Posts
-All important blog posts are now online in the [github wiki](https://github.com/NicoHood/NicoHood.github.io/wiki).
+All important blog posts are now online in the [**github wiki**](https://github.com/NicoHood/NicoHood.github.io/wiki).
 You will find there new tutorials sooner or later. Everything that is not related directly to an existing project
 will be published there now. Please update your links!
 
