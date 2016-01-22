@@ -21,7 +21,7 @@ Those are the options how you can communicate with me:
 **Please do not use the Github issues to ask questions.** Only open bugs there or if you are unsure what your error gives. I will not answer general questions there. Try to read the documentation/wiki first.
 
 #### Tox
-**Tox is the best way to contact me right now.** It is a quick, easy, multiplatform and secure chat messanger. You can get Tox from its [official webpage](https://tox.chat/). My ID is `nicohood@toxme.io` or `458F1876CC96B0DC0F7A08D0AB6511FA9FFE7E9F165D2AF1695022B527E02F01B9D093C5285A`.
+**Tox is the best way to contact me right now.** It is a quick, easy, multiplatform and secure chat messenger. You can get Tox from its [official webpage](https://tox.chat/). My ID is `nicohood@toxme.io` or `458F1876CC96B0DC0F7A08D0AB6511FA9FFE7E9F165D2AF1695022B527E02F01B9D093C5285A`.
 
 #### IRC
 I am **sometimes** online on IRC. You can reach me via the freenode server, I am mostly online in the `#arduino` channel. Username `NicoHood`. [OTR](https://securityinabox.org/en/guide/pidgin/windows) is appreciated. For an easier encrypted chat setup please use Tox.
